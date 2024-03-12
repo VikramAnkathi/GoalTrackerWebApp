@@ -32,25 +32,25 @@ Django (version 3.x)
 
 _Clone the repository:_
 
-''' git clone https://github.com/VikramAnkathi/ToDoWebapp.git'''
+`git clone https://github.com/VikramAnkathi/ToDoWebapp.git`
 
 _Navigate to the project directory:_
 
-'''cd goal-tracker-web-app'''
+`cd goal-tracker-web-app`
 
 _Install the dependencies:_
 
-'''pip install -r requirements.txt'''
+`pip install -r requirements.txt`
 
 **Usage**
 
 _Apply migrations:_
 
-'''python manage.py migrate'''
+`python manage.py migrate`
 
 _Run the development server:_
 
-'''python manage.py runserver'''
+`python manage.py runserver`
 
 Open your web browser and go to http://localhost:8000 to access the Goal Tracker web app.
 

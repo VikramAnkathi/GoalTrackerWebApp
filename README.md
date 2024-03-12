@@ -31,7 +31,7 @@ Django (version 3.x)
 
 _Clone the repository:_
 
-```git clone https://github.com/VikramAnkathi/ToDoWebapp.git```
+```git clone https://github.com/VikramAnkathi/GoalTrackerWebApp.git```
 
 _Navigate to the project directory:_
 

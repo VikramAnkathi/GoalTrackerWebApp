@@ -8,7 +8,6 @@ This is a simple goal tracker web app built using Python, Django, HTML, and CSS.
 * Requirements
 * Installation
 * Usage
-* Contributing
 
 **Description**
 

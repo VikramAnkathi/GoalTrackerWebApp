@@ -1,4 +1,4 @@
-# Goal Tracker List Web App
+# Goal Tracker Web App
 
 This is a simple goal tracker web app built using Python Django, HTML, and CSS.
 
